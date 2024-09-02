@@ -1,0 +1,53 @@
+Noch zu machen:
+Phase 1:
+Software überarbeiten
+-schnellerer Motor 
+-mehrere Motoren support 
+
+Neue schnur
+-die jetzige schnur ist bei etwa 10kg gerissen sollte aber 18kg ausreizen 
+
+Halterung am boden
+- 20kg Gewicht könnte für den Anfang reichen
+- Bierkasten wiegt 20kg
+
+Aufwickelung
+Sollte nicht zu dick sein
+-Pla Spüle könnte reichen
+-mm Umdrehung verhältnis in die Software einbauen 
+
+Halterung an der Decke 
+-vielleicht erst im neuen Lab, das zeigt sich in den nächsten Wochen 
+
+Testen 
+
+
+Phase 2:
+Platform bauen
+
+3 weitere Motoren bauen
+-getriebe und Sensoren bestellen 
+
+
+
+Software für die Plattform 
+
+Schaltung verlöten
+
+Verkabelung 
+
+Primitive Halterung am nao
+
+Erster Test mit einem nao
+
+Phase 3
+Strom für die Plattform 
+
+Drehung am nao betrachten
+
+Phase 4(weitere Ideen):
+Mehr Sensoren 
+-automatischer notstop 
+-automatische kalibrierung
+
+
