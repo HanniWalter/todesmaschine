@@ -1,3 +1,5 @@
+//untested
+
 #include <Arduino.h>
 #include <WiFi.h>
 #include "driver/pcnt.h"
@@ -5,7 +7,7 @@
 
 //define WLAN
 #define WLAN_SSID "SPL_B"
-#define WLAN_PASS "Nao?!Nao?!"
+#define WLAN_PASS ""
 #define LOCAL_IP {10,0,13,170} //{10, 0, 13, 170}
 #define GATEWAY {10, 0, 13, 1}
 #define SUBNET {255, 255, 255, 0}
@@ -18,6 +20,7 @@
 #define MOTORS 1
 const int SENSOR_PINS[] = {32, 35};
 const pcnt_unit_t PCNT_UNIT[] = {PCNT_UNIT_0};
+const int motor_pins[] = {22, 23};
 
 //typecode 0x01
 struct Status_struct {
@@ -149,34 +152,27 @@ void counter_setup(){
   }
 }
 
-void set_motor_speed(int motor, bool direction, int16_t speed){
-  //Status_struct data;
-  //data.magicNumber = 0x01;
-  //Status_return_struct return_data = pocess_status_struct(data);
-  //Serial.println(Status_return_struct_to_string(return_data));
-  if(speed == 0){
-    return;
-  }
-  digitalWrite(22, direction);
-  digitalWrite(23, HIGH);
-  delay(1);
-  digitalWrite(23, LOW);  
+void set_motor(int motor, bool direction, bool on){
+  digitalWrite(motor_pins[motor*2], direction);
+  digitalWrite(motor_pins[motor*2+1], on);
   //Serial.println("Motor Speed Set");
 }
 
 void motor_control_loop(void* pvParameters) {
   while (true) {
-    vTaskDelay(1);
     for (int i = 0; i < MOTORS; i++) {
       int16_t counter;
       pcnt_get_counter_value(PCNT_UNIT[i], &counter); 
       int16_t movement = target[i] - counter;
-      //stop if motor is beetwen the thresholds
+      
+      
       if (movement <= POS_NO_MOVEMENT_THRESHOLD && movement >= NEG_NO_MOVEMENT_THRESHOLD) {
-        set_motor_speed(i, true, 0);
+        set_motor(i, movement < 0, true);
         continue;
       }    
-      set_motor_speed(i,movement < 0, movement); 
+      delayMicroseconds(30);
+      set_motor(i,movement < 0, false); 
+      delayMicroseconds(30);
     }
   }
 }
