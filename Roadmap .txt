@@ -1,12 +1,10 @@
 Dringend/Einkaufsliste
---mindestens (3*4 + 2*4) mal M3 10/12 Schrauben
---16 mal Linsenkopfschraube/Flachkopfschraube M10x100
---16 mal passende Mutter (vielleicht ein Schlüssel) 
---32 mal passende unterlegscheiben
---32 mal Unterlegscheiben M3
 
-Sockel bei den Sensoren Halterung wegnehmen
-Verschraubung entwickeln
+Heute noch:
+
+3 weitere Bodenplatten
+Deckenaufhängung planen
+Deckenaufhängung markieren
 
 
 Noch zu machen:
@@ -31,9 +29,9 @@ Aufwickelung
 -mm Umdrehung verhältnis in die Software einbauen 
 -Aufrollumg einer Angel testen 
 
-Halterung an der Decke 
+Halterung an der Decke (x)
 -Antrag läuft
--Im alten Lab und im neuen (muss eh zwei mal gebaut werden
+-Im alten Lab und im neuen muss eh zwei mal gebaut werden
 
 
 

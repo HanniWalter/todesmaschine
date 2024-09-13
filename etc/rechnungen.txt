@@ -11,3 +11,15 @@ gesamt:
 
 2cm Spule wie groß
 über 2 Meter deshalb mehrfach gewickelt
+
+
+
+
+Berechnung über die Motorstärke
+
+stärke motor: 
+0,42Nm
+20:1 übersetzung
+8,4Nm
+200N ist das Ziel:
+0,042m
