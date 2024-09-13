@@ -1,24 +1,42 @@
+Dringend/Einkaufsliste
+--mindestens (3*4 + 2*4) mal M3 10/12 Schrauben
+--16 mal Linsenkopfschraube/Flachkopfschraube M10x100
+--16 mal passende Mutter (vielleicht ein Schlüssel) 
+--32 mal passende unterlegscheiben
+--32 mal Unterlegscheiben M3
+
+Sockel bei den Sensoren Halterung wegnehmen
+Verschraubung entwickeln
+
+
 Noch zu machen:
 Phase 1:
 Software überarbeiten
 -schnellerer Motor 
 -mehrere Motoren support 
 
-Neue schnur
+Neue Schnur (x)
 -die jetzige schnur ist bei etwa 10kg gerissen sollte aber 18kg ausreizen 
+-haben Weidezaundraht da aber nicht mein Favorit
+-habe neue Schnur bestellt
 
 Halterung am boden
-- 20kg Gewicht könnte für den Anfang reichen
-- Bierkasten wiegt 20kg
+- 40 kg Gewichte
+- Verschraubung entwickeln
+
 
 Aufwickelung
-Sollte nicht zu dick sein
+-Sollte nicht zu dick sein
 -Pla Spüle könnte reichen
 -mm Umdrehung verhältnis in die Software einbauen 
-- aufrollumg einer angel testen 
+-Aufrollumg einer Angel testen 
 
 Halterung an der Decke 
--vielleicht erst im neuen Lab, das zeigt sich in den nächsten Wochen 
+-Antrag läuft
+-Im alten Lab und im neuen (muss eh zwei mal gebaut werden
+
+
+
 
 Testen 
 
