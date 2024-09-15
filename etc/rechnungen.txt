@@ -22,4 +22,22 @@ stärke motor:
 20:1 übersetzung
 8,4Nm
 200N ist das Ziel:
-0,042m
+0,042m Radius
+
+Berechnung der Seillänge kleines Feld
+
+größe Feld
+7550 Länge
+5050 Breite
+2300 Höhe
+
+9370 Diagonale 
+
+12 Meter mindestens ohne Flaschenzug
+
+Berechnung der Spulengröße
+10m Seillänge
+25cm Umfang
+schnur sind 25cm/mm
+50 Umdrehungen
+5cm Wicklung

@@ -3,8 +3,6 @@ Dringend/Einkaufsliste
 Heute noch:
 
 3 weitere Bodenplatten
-Deckenaufhängung planen
-Deckenaufhängung markieren
 
 
 Noch zu machen:
@@ -17,17 +15,14 @@ Neue Schnur (x)
 -die jetzige schnur ist bei etwa 10kg gerissen sollte aber 18kg ausreizen 
 -haben Weidezaundraht da aber nicht mein Favorit
 -habe neue Schnur bestellt
-
-Halterung am boden
-- 40 kg Gewichte
-- Verschraubung entwickeln
-
+-Dyneema ist vielleicht das Mittel, vielleicht ausprobieren wenn die neue Schnur nichts ist
 
 Aufwickelung
 -Sollte nicht zu dick sein
 -Pla Spüle könnte reichen
 -mm Umdrehung verhältnis in die Software einbauen 
--Aufrollumg einer Angel testen 
+-Aufrollumg einer Angel testen
+-neue Aufrollung bauen
 
 Halterung an der Decke (x)
 -Antrag läuft
@@ -43,9 +38,8 @@ Phase 2:
 Platform bauen
 
 3 weitere Motoren bauen
+-für Motorplatten ist alles da
 -getriebe und Sensoren bestellen 
-
-
 
 Software für die Plattform 
 
@@ -54,6 +48,8 @@ Schaltung verlöten
 Verkabelung 
 
 Primitive Halterung am nao
+--Gurt
+
 
 Erster Test mit einem nao
 
