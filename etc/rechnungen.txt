@@ -32,8 +32,17 @@ größe Feld
 2300 Höhe
 
 9370 Diagonale 
-
 12 Meter mindestens ohne Flaschenzug
+
+Berechnung der Seillänge großes Feld
+
+größe Feld
+10000 Länge
+6000 Breite
+3000 Höhe
+
+12041 Diagonale 
+16 Meter mindestens ohne Flaschenzug
 
 Berechnung der Spulengröße
 10m Seillänge

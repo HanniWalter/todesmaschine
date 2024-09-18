@@ -2,44 +2,41 @@ Dringend/Einkaufsliste
 
 Heute noch:
 
-3 weitere Bodenplatten
-
-
 Noch zu machen:
 Phase 1:
-Software überarbeiten
+Software überarbeiten (I)
 -schnellerer Motor 
 -mehrere Motoren support 
+-geschwindigkeit des Motors ermitteln
 
 Neue Schnur (x)
 -die jetzige schnur ist bei etwa 10kg gerissen sollte aber 18kg ausreizen 
 -haben Weidezaundraht da aber nicht mein Favorit
--habe neue Schnur bestellt
--Dyneema ist vielleicht das Mittel, vielleicht ausprobieren wenn die neue Schnur nichts ist
+-habe neue Dyneema Schnur bestellt (X) 
+-(I) tests mit der Alten Schnur notfalls draußen
 
-Aufwickelung
--Sollte nicht zu dick sein
--Pla Spüle könnte reichen
--mm Umdrehung verhältnis in die Software einbauen 
--Aufrollumg einer Angel testen
--neue Aufrollung bauen
+Aufwickelung (I)
+-mm Umdrehung verhältnis in die Software einbauen (I)
+-Aufrollumg einer Angel testen (I)
+-neue Aufrollung bauen (I)
 
 Halterung an der Decke (x)
--Antrag läuft
--Im alten Lab und im neuen muss eh zwei mal gebaut werden
+-Antrag läuft (x)
+-markierungen im alten Lab (I)
 
 
 
-
-Testen 
+Testen
 
 
 Phase 2:
 Platform bauen
+- Kamera und Prozessor
 
 3 weitere Motoren bauen
 -für Motorplatten ist alles da
 -getriebe und Sensoren bestellen 
+-netzteil bestellen
 
 Software für die Plattform 
 
@@ -48,7 +45,7 @@ Schaltung verlöten
 Verkabelung 
 
 Primitive Halterung am nao
---Gurt
+--Gurt will Johann bauen
 
 
 Erster Test mit einem nao
