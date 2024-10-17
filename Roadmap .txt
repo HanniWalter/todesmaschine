@@ -1,7 +1,5 @@
 Dringend/Einkaufsliste
 
-Heute noch:
-
 Noch zu machen:
 Phase 1:
 Software überarbeiten (I)
@@ -11,20 +9,15 @@ Software überarbeiten (I)
 
 Neue Schnur (x)
 -die jetzige schnur ist bei etwa 10kg gerissen sollte aber 18kg ausreizen 
--haben Weidezaundraht da aber nicht mein Favorit
--habe neue Dyneema Schnur bestellt (X) 
--(I) tests mit der Alten Schnur notfalls draußen
+-habe neue Dyneema Schur - testen !! 
+-(II) tests mit der Alten Schnur notfalls draußen
 
 Aufwickelung (I)
--mm Umdrehung verhältnis in die Software einbauen (I)
--Aufrollumg einer Angel testen (I)
--neue Aufrollung bauen (I)
+-mm Umdrehung verhältnis in die Software einbauen (A)
+-neue Aufrollung überarbeiten (A)
 
-Halterung an der Decke (x)
--Antrag läuft (x)
--markierungen im alten Lab (I)
-
-
+Halterung an der Decke (X)
+-Antrag läuft (X)
 
 Testen
 
@@ -55,9 +48,17 @@ Strom für die Plattform
 
 Drehung am nao betrachten
 
+Keilriemen für den Ruck
+
+Feder für den Roboter
+
 Phase 4(weitere Ideen):
 Mehr Sensoren 
 -automatischer notstop 
 -automatische kalibrierung
 
 
+
+
+
+Aufhängung
