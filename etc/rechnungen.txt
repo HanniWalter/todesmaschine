@@ -32,7 +32,7 @@ größe Feld
 5050 Breite
 2300 Höhe
 
-9370 Diagonale 
+9370free Diagonale 
 12 Meter mindestens ohne Flaschenzug
 
 Berechnung der Seillänge großes Feld
@@ -46,11 +46,15 @@ größe Feld
 16 Meter mindestens ohne Flaschenzug
 
 Berechnung der Spulengröße
-10m Seillänge
-25cm Umfang
-schnur sind 25cm/mm
-50 Umdrehungen
-5cm Wicklung
+10 000mm/16 000mm Seillänge
+40mm durchmesser
+250mm Umfang
+1,5mm Abstand Schnur
+250/1,5 = 167 Verhältnis Seillänge zu Spulenlänge
+=> 60mm/95mm
+
+72 
+
 
 Berechnung der Umlaufzeit
 50 cm/s 
