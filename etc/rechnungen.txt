@@ -47,11 +47,11 @@ größe Feld
 
 Berechnung der Spulengröße
 10 000mm/16 000mm Seillänge
-40mm durchmesser
-250mm Umfang
+60 mm durchmesser
+180 mm Umfang
 1,5mm Abstand Schnur
-250/1,5 = 167 Verhältnis Seillänge zu Spulenlänge
-=> 60mm/95mm
+180/1,5 = 120 Verhältnis Seillänge zu Spulenlänge
+=> 85mm/135mm
 
 72 
 
