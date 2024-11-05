@@ -2,34 +2,26 @@ Dringend/Einkaufsliste
 
 Noch zu machen:
 Phase 1:
-Software überarbeiten (I)
--schnellerer Motor 
--mehrere Motoren support 
--geschwindigkeit des Motors ermitteln
-
-Neue Schnur (x)
--die jetzige schnur ist bei etwa 10kg gerissen sollte aber 18kg ausreizen 
--habe neue Dyneema Schur - testen !! 
--(II) tests mit der Alten Schnur notfalls draußen
-
-Aufwickelung (I)
--mm Umdrehung verhältnis in die Software einbauen (A)
--neue Aufrollung überarbeiten (A)
-
 Halterung an der Decke (X)
 -Antrag läuft (X)
 
-Testen
+Phase 2.0:
+Software für DC Motoren
 
+Kamerakonzept erstellen
 
-Phase 2:
+Strom für Motoren ermitteln
+
+Phase 2,1
+
 Platform bauen
 - Kamera und Prozessor
 
-3 weitere Motoren bauen
+4 weitere Motoren bauen
 -für Motorplatten ist alles da
--getriebe und Sensoren bestellen 
--netzteil bestellen
+-getriebe und Sensoren bestellen
+
+-netzteil bestellen unbekannte A/ 24V
 
 Software für die Plattform 
 
@@ -38,8 +30,7 @@ Schaltung verlöten
 Verkabelung 
 
 Primitive Halterung am nao
---Gurt will Johann bauen
-
+Funktioniert
 
 Erster Test mit einem nao
 
