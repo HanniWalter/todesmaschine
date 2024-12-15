@@ -3,3 +3,4 @@
 *.fcstd2
 *.FCStd2
 *.FCBak
+*/venv/*
